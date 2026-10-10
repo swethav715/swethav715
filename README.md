@@ -13,7 +13,7 @@ Currently exploring Java, Python, AI, and Cloud Computing. 🚀
 - 📚 Always learning and discovering something new.
 
 ### 🛠️ Tech I use
-Java · C · SQL · Postman · Git
+Java · C · SQL · Postman · Git · n8n
 
 ### ✨ Beyond Code
 - 💰 Curious about money, personal finance, and investing.
